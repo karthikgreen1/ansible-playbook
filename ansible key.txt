@@ -1,0 +1,20 @@
+Your Red Hat Ansible Tower license key is provided below:
+
+
+Subscription: Red Hat Ansible Tower, Self-Support (10 Managed Nodes)
+Expires: never
+
+{
+    "company_name": "COGNIZANT", 
+    "contact_email": "karthik.sk@cognizant.com", 
+    "contact_name": "karthik sivakumar", 
+    "hostname": "4a0a7b0505884db2b551653aa8049658", 
+    "instance_count": 10, 
+    "license_date": 2114585229, 
+    "license_key": "c7a93bfdbf1b299a4dad2a2564ac0cad58ec99b130523778ae2c949e3260d37e", 
+    "license_type": "basic", 
+    "subscription_name": "Red Hat Ansible Tower, Self-Support (10 Managed Nodes)"
+}
+
+
+Save the attached license file to import into Tower. For more information on importing or updating your license, refer to the Tower documentation at http://docs.ansible.com/ansible-tower/latest/html/quickstart/import_license.html
